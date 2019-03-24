@@ -1,0 +1,11 @@
+Package: andycat
+Type: Package
+Title: Simple package to prove I csn
+Version: 0.1.0
+Authors@R: person("Andrew", "Lockhart", email = "lockhartandrewj@gmail.com",
+  role = c("aut", "cre"))
+Description: Does very little, so far.
+    A little more description.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
