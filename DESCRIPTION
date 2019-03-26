@@ -1,7 +1,7 @@
 Package: andycat
 Type: Package
 Title: Simple package to prove I can
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: person("Andrew", "Lockhart", email = "lockhartandrewj@gmail.com",
   role = c("aut", "cre"))
 Description: Does very little, so far.
