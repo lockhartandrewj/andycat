@@ -1,43 +1,37 @@
----
-output: github_document
----
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-```{r, echo = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "README-"
-)
-```
-
 # andycat
 
-The goal of andycat is to prove that andy can make a **very simple** R package
+The goal of andycat is to prove that andy can make a **very simple** R
+package
 
 ## Installation
 
 You can install andycat from github with:
 
-```{r gh-installation, eval = FALSE}
+``` r
 # install.packages("devtools")
 devtools::install_github("lockhartandrewj/andycat")
 ```
 
 ## Example
 
-This is a basic example which shows you how to run the three functions in andycat:
+This is a basic example which shows you how to srun the three functions
+in andycat:
 
-```{r example}
+``` r
 andycat::dogs_over_cats()
+#> [1] "Woof woof!"
 #> [1] "Woof woof!"
 
 andycat::hello()
 #> [1] "Hello, world!"
+#> [1] "Hello, world!"
 
 andycat::cat_function()
 #> [1] "I love cats!"
+#> [1] "I love cats!"
+```
 
-```
-```
+\`\`\`
