@@ -23,14 +23,11 @@ in andycat:
 ``` r
 andycat::dogs_over_cats()
 #> [1] "Woof woof!"
-#> [1] "Woof woof!"
 
 andycat::hello()
 #> [1] "Hello, world!"
-#> [1] "Hello, world!"
 
 andycat::cat_function()
-#> [1] "I love cats!"
 #> [1] "I love cats!"
 ```
 
